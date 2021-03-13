@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @188166qwet123
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+Hello ,i am a freshman,and i would like to go the big website to work.i wish than you can give me some advices,thank you!
+
+
+<!---
+188166qwet123/188166qwet123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+
